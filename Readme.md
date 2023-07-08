@@ -1,0 +1,3 @@
+## Captura de imagens de janelas minimizadas ou em segundo plano
+- **Projeto pessoal** que se trata da **captura de imagens de janelas minimizadas ou em segundo plano**.
+- O arquivo 'ScreenCapture.py' possui funções e classes não exploradas nesse projeto, que são associadas a capacidade de encontrar as coordenadas de imagens utilizadas como template na janela capturada por meio de bibliotecas como opencv e pyautogui. Tais funções estão 100% funcionais, basta a implementação do usuário como desejar.
